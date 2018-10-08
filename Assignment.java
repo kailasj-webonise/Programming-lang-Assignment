@@ -1,6 +1,14 @@
 /* Language: JAVA
 
-   Why:  Among the languages known to me, I have choose JAVA beacuse the primary objective of Java programming language creation was to make it portable, simple and secure programming language. Also there some excellent features of java which make java popular among the other languages.*/
+   Why:  Among the languages known to me, I have choose JAVA beacuse the primary objective of Java programming language creation was to make it portable, simple and secure programming language. Also there some excellent features of java which make java popular among the other languages are as follows.
+1. Simple: Java is very easy to learn, and its syntax is simple, clean and easy to understand. According to Sun, Java language is a simple programming language.
+2. Platform Independent: Java is platfrom independant, java can be written only once and run anywhere language.
+3. Secured: Java is best known for its security. With Java, we can develop virus-free systems.
+4. Robust: Robust simply means strong. Java is robust language.
+5. Portable: Java is portable we can carry only the byte code on any platfrom it doesnot required any implementation. 
+6. Dynamic: Java is a dynamic language. Java supports dynamic compilation and automatic memory management (garbage collection).
+
+*/
 
 
 import java.io.*;//line1
